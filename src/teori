@@ -1,0 +1,11 @@
+Matrix adalah struktur penyimpanan data pada memori utama yang individu elemennya
+diacu dengan memakai 2 buah indeks yang sering dikonotasikan dengan baris dan kolom.
+Hubungannya dengan Array ialah, sebenarnya matriks merupakan array/larik, sehingga konsep umum untuk array
+dapat berlaku juga untuk matriks, yaitu:
+·    Kumpulan elemen memiliki tipe yang sama.
+Tipe elemen pada matriks bisa berupa tipe dasar integer, string, real, char, dan boolean,
+atau bisa juga berupa tipe terstruktur seperti record.
+·    Semua elemen data bisa diakses dengan langsung jika indeks baris dan kolom diketahui,
+yang mana indeks ini menyatakan posisi relatif didalam kumpulannya.
+·    Struktur datanya statik, maksudnya ialah jumlah elemennya sudah dideklarasi dahulu pada bagian kamus
+dan tak dapat diganti selama program dijalankan.
